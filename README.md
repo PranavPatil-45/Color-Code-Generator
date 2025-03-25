@@ -35,6 +35,10 @@ You can easily customize this project by:
 - Adding additional features like RGB or HSL color display
 
 ## License
+
+https://github.com/user-attachments/assets/f1b58e19-b7e5-47bf-a94c-abcfea35d17c
+
+
 This project is open-source and available under the MIT License.
 
 ## Author
