@@ -1,0 +1,22 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    transition: 0.3s;
+}
+.container-fluid{
+
+    height: 100vh;
+}
+.container-fluid .card{
+    height: auto;
+}
+
+
+#coppied
+{
+    font-size: 12px;
+}
